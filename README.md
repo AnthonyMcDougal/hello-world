@@ -1,2 +1,2 @@
 # hello-world
-GitHub tutorial, and possibly future tests of GitHub or sharing
+This repository is based on the GitHub tutorial, and will possibly future tests of GitHub or sharing
