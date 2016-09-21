@@ -16,10 +16,6 @@ Steelman Deletion1
 Another sentence in this last OoOoMartin2 paragraph will be helpful. A third one inline will also be helpful.
 Ok, then we will work on this one as well.
 
-<<<<<<< HEAD
 Now we will make the last sentence Steelman3 a whole new paragraph. A fourth one on the last line will make it complete.
-=======
-OoOoMartin Deletion1
->>>>>>> refs/remotes/origin/master
 
 This edit is exactly the same for both editors.
